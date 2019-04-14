@@ -15,3 +15,7 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 - Using blobs to implement a video and image gallery
 - Google map with pins that will be dropped in the areas I go to hunt or explore with information on the wild life/ vegetation available in that area
+
+<h3>View Project</h3>
+
+- Project can be used by entering https://feastonbeasttylerballard.azurewebsites.net/ into your preferred web browser. 
