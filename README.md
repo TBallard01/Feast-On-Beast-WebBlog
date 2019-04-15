@@ -18,4 +18,4 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 <h3>View Project</h3>
 
-- Project can be viewed by entering https://feastonbeasttylerballard.azurewebsites.net/ into your preferred web browser. 
+- Project can be viewed by entering https://feastonbeast.azurewebsites.net/ into your preferred web browser. 
