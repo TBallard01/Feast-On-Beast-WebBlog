@@ -11,9 +11,11 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 <h3>Backlog</h3>
 
-- Using blobs to implement a video and image gallery
+- Using blobs to implement photos
 - Recipes page
 - Gear review page
+- Gallery page
+- embedding youtube videos
 
 <h3>Future Implementations</h3>
 
