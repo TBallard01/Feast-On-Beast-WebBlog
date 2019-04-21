@@ -8,6 +8,7 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 - Blog Posts
 - User authorizations
+- Image upload and streaming by using a content folder within project. 
 
 <h3>Backlog</h3>
 
