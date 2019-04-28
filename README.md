@@ -22,6 +22,17 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 - Google map with pins that will be dropped in the areas I go to hunt or explore with information on the wild life/ vegetation available in that area
 
+<h3>Testing</h3>
+
+| Requirement ID | Description | Test Method | Test Procedure | Current Status | TimeStamp |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Ensure admin priveleges work exclusively for admin role | Test | Click on unit tests folder, then unit tests class, and run unit test confirmAdmin | Not Tested | N/A | 
+| 2 | Can post blogs to main page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postBlog | Not Tested | N/A |
+| 3 | Can post recipes to recipe page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postRecipe | Not Tested | N/A |
+| 4 | Can post images to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
+| 5 | Can embed youtube videos to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postVideo | Not Tested | N/A |
+| 6 | Can post gear reviews to gear page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postGear | Not Tested | N/A |
+
 <h3>View Project</h3>
 
 - Project can be viewed by entering https://feastonbeast.azurewebsites.net/ into your preferred web browser. 
