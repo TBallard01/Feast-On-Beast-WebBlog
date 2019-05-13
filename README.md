@@ -26,12 +26,15 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 | Requirement ID | Description | Test Method | Test Procedure | Current Status | TimeStamp |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Ensure admin priveleges work exclusively for admin role | Tested by trying to access admin page through the use of both roles | Click on unit tests folder, then unit tests class, and run unit test confirmAdmin | Tested | N/A | 
-| 2 | Can post blogs to main page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postBlog | Not Tested | N/A |
-| 3 | Can post recipes to recipe page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postRecipe | Not Tested | N/A |
-| 4 | Can post images to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
-| 5 | Can embed youtube videos to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postVideo | Not Tested | N/A |
-| 6 | Can post gear reviews to gear page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postGear | Not Tested | N/A |
+| 1 | Ensure admin priveleges work exclusively for admin role | Test | Run application in production environment, then attempted to access admin privleges by both roles, ensuring only admin role has access to admin privleges | Tested | 20:14:38 | 
+| 2 | Can post blogs to main page as admin | Test | As admin create a new post and ensure it not only posts but posts to main page. | Tested | 20:18:20 |
+| 3 | Can post recipes as admin that are successfully stored in recipe database | Test | As admin create new recipe post then access database via azure portal and ensure new post is in recipe database | Tested | N/A |
+| 4 | Can post recipes as admin that are sorted via a category of meat and posted to meat recipe page | Test | As admin create new recipe with category of meat and ensure it is posted on meat recipe page | Test Failed | N/A |
+| 5 | Can post recipes as admin that are sorted via a category of fish and posted to fish recipe page | Test | As admin create new recipe with category of fish and ensure it is posted on meat recipe page | Test Failed | N/A |
+| 6 | Can post recipes as admin that are sorted via a category of vegetarian and posted to vegetarian recipe page | Test | As admin create new recipe with category of vegetarian and ensure it is posted on vegetarian recipe page | Test Failed | N/A |
+| 7 | Can post images to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
+| 8 | Can embed youtube videos to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postVideo | Not Tested | N/A |
+| 9 | Can post gear reviews to gear page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postGear | Not Tested | N/A |
 
 <h3>View Project</h3>
 
