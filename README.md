@@ -36,10 +36,11 @@ Feast On Beast is an interactive web application that will serve as a source of 
 | 7 | Can view recipes as user that is sorted via a category of fish and is posted to the fish recipe page | Test | As user view recipe with a category of fish on the fish recipe page | Test Failed | N/A |
 | 8 | Can post recipes as admin that are sorted via a category of vegetarian and is posted to vegetarian recipe page | Test | As user view recipe with a category of vegetarian on the vegetarian recipe page | Test Failed | N/A |
 | 9 | Can view recipes as user that are sorted via a category of vegetarian and posted to the vegetarian recipe page | Test | As admin create new recipe with category of vegetarian and ensure it is posted on vegetarian recipe page | Test Failed | N/A |
-| 10 | Can post images to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
-| 11 | Can embed youtube videos to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postVideo | Not Tested | N/A |
-| 12 | Can post gear reviews to gear page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postGear | Not Tested | N/A |
-| 13 | Can view gear reviews on gear page as user | Test | Click on gear reviews tab on the nav bar, then select a gear review post and ensure all of its content is displayed to the user | Not Tested | N/A |
+| 10 | Can post images to tips & tricks page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
+| 11 | Can embed youtube videos to tips & tricks page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postVideo | Not Tested | N/A |
+| 12 | Can view youtube videos on tips & tricks page as user | Test | Click on embedded youtube video and ensure it streams | Not Tested | N/A |
+| 13 | Can post gear reviews to gear page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postGear | Not Tested | N/A |
+| 14 | Can view gear reviews on gear page as user | Test | Click on gear reviews tab on the nav bar, then select a gear review post and ensure all of its content is displayed to the user | Not Tested | N/A |
 
 <h3>View Project</h3>
 
