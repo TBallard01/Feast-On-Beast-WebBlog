@@ -26,7 +26,7 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 | Requirement ID | Description | Test Method | Test Procedure | Current Status | TimeStamp |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Ensure admin priveleges work exclusively for admin role | Test | Click on unit tests folder, then unit tests class, and run unit test confirmAdmin | Not Tested | N/A | 
+| 1 | Ensure admin priveleges work exclusively for admin role | Tested by trying to access admin page through the use of both roles | Click on unit tests folder, then unit tests class, and run unit test confirmAdmin | Tested | N/A | 
 | 2 | Can post blogs to main page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postBlog | Not Tested | N/A |
 | 3 | Can post recipes to recipe page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postRecipe | Not Tested | N/A |
 | 4 | Can post images to media page as admin | Test | Click on unit tests folder, then unit tests class, and run unit test postImage | Not Tested | N/A |
