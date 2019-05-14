@@ -26,7 +26,7 @@ Feast On Beast is an interactive web application that will serve as a source of 
 
 | Requirement ID | Description | Test Method | Test Procedure | Current Status | TimeStamp |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Ensure admin priveleges work exclusively for admin role | Demonstration | Run application in production environment, then attempted to access admin privleges by both roles, ensuring only admin role has access to admin privleges | Tested | 20:14:38 | 
+| 1.0 | Ensure admin priveleges work exclusively for admin role | Demonstration | Run application in production environment, then attempted to access admin privleges by both roles, ensuring only admin role has access to admin privleges | Tested | 20:14:38 | 
 | 2.0 | Can post blogs to main page as admin | Demonstration | As admin create a new post and ensure it not only posts but posts to main page. | Tested | 20:18:20 |
 | 2.1 | Can access blogs on main page as user | Implementation | As user click newly created blog post and ensure blog post image, title, and body are displayed. | Tested | 20:28:00 |
 | 3.0 | Can post recipes as admin that are successfully stored in recipe database | Demonstration | As admin create new recipe post then access database via azure portal and ensure new post is in recipe database | Tested | N/A |
